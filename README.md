@@ -1,2 +1,2 @@
 # bkproject
-python project
+python django project
